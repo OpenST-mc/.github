@@ -13,7 +13,7 @@
 ### 👥 核心团队 (The Team)
 
 * **管理:** Linvin-1233, Trice450
-* **Maintainers:** Trice450, linchien26, Gufen-hnust, woodengrass, yymhyymh, Linvin-1233
+* **Maintainers:** Trice450, Gufen-hnust, woodengrass, yymhyymh, Linvin-1233, XiyiyeJay30, Lirrum
 
 ---
 
